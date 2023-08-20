@@ -10,5 +10,10 @@ Usage:将要扫描的url.txt放至scan.py同目录下，运行python scan.py即�
 
 # 0x02 CF_ApiTool o.0噂嘟假嘟
 
-第一次启动可能有点慢，需要2秒
+```
+chmod +x CF_ApiTool_gui_darwin_amd64
+```
+
+![image-20230820085009603](/Users/lanxin/Library/Application Support/typora-user-images/image-20230820085009603.png)
+
 <img width="1282" alt="图片" src="https://github.com/CFSEC/APi_Exptools/assets/142067139/569e16c9-8293-497c-abc6-ab90dd988c13">

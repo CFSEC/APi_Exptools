@@ -16,6 +16,5 @@ chmod +x CF_ApiTool_gui_darwin_amd64
 <img width="594" alt="图片" src="https://github.com/CFSEC/APi_Exptools/assets/142067139/2195a7d5-ead6-45d8-92a2-d05a747a9b75">
 
 
-![image-20230820085009603](/Users/lanxin/Library/Application Support/typora-user-images/image-20230820085009603.png)
 
 <img width="1282" alt="图片" src="https://github.com/CFSEC/APi_Exptools/assets/142067139/569e16c9-8293-497c-abc6-ab90dd988c13">
